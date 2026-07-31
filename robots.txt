@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://xshaaz123.github.io/De-Fresh-Bakers/sitemap.xml
