@@ -1463,3 +1463,22 @@ Order Online
 .order-online .hero-btn{
     display:inline-block;
 }
+
+/* ===========================
+   Find Us Online
+=========================== */
+
+.find-us {
+    padding: 70px 10%;
+    text-align: center;
+}
+
+.find-us p {
+    max-width: 650px;
+    margin: 0 auto 30px;
+    line-height: 1.8;
+}
+
+.find-us .hero-btn {
+    display: inline-block;
+}
